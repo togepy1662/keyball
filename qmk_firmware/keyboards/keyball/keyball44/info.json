@@ -1,7 +1,7 @@
 {
     "usb": {
-        "vid": "0x5957",
-        "pid": "0x0400",
+        "vid": "0x04FE",
+        "pid": "0x0202",
         "device_version": "1.0.0"
     },
     "manufacturer": "Yowkees",
